@@ -1,7 +1,7 @@
-# Resume generator
+# Resume generator for NITK
 Web based editor to create Resume in a customizable template  
   
-Try it : https://nitish6174.github.io/resume-generator/  
+Try it : https://jyotisuman09.github.io/resume-generator-nitk/  
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
