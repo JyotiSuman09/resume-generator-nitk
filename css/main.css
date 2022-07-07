@@ -6,6 +6,12 @@ body {
 	margin: 0;
 }
 
+
+.favicon-title{
+	border-radius: 50%;
+}
+
+
 #left {
 	background-color: #363636;
 	line-height: 1em;
